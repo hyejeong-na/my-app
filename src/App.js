@@ -22,7 +22,7 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        이 기기의 IP주소ddd는 {ip}입니다.
+        이 기기의 IP주소ddd는  {ip}입니다.
       </header>
     </div>
   );
